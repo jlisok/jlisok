@@ -107,3 +107,5 @@ participate in a project utilising clean code and state-of-the-art design princi
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+<b>Credentials:</b> This readme file is based on this <a href="https://github.com/DenverCoder1/DenverCoder1.git"><img alt="project" src="https://img.shields.io/badge/projekct-9C033A.svg?logoColor=white"></a>. All credentials to DenverCoder1.
