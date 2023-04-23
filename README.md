@@ -34,13 +34,8 @@ participate in a project utilising clean code and state-of-the-art design princi
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
     <a href="https://github.com/jlisok/youtube_activity_manager_deployment"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jlisok&repo=youtube_activity_manager_deployment&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="youtube_activity_manager_deployment"></a>
-    
     <a href="https://github.com/jlisok/youtube_activity_manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jlisok&repo=youtube_activity_manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="youtube_activity_manager"></a>
-    
-    
-    
     <a href="https://github.com/jlisok/youtube_activity_manager_frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jlisok&repo=youtube_activity_manager_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="youtube_activity_manager_frontend"></a>
-    
     <a href="https://github.com/jlisok/FileWritingService"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jlisok&repo=FileWritingService&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="FileWritingService"></a>
   </p>
 </details>
