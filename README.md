@@ -40,31 +40,16 @@ participate in a project utilising clean code and state-of-the-art design princi
   <h3> Backend Stuff</h3>
 
   <p>
-      <a href=""><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-9C033A.svg?&logoColor=white"></a>
-      <a href=""><img alt="Spring" src="https://img.shields.io/badge/Spring-9C033A.svg?&logoColor=white"></a>
-      <a href=""><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-9C033A.svg?&logoColor=white"></a>
-      <a href=""><img alt="REST" src="https://img.shields.io/badge/REST-9C033A.svg?&logoColor=white"></a>
-      <a href=""><img alt="AzureServiceBus" src="https://img.shields.io/badge/AzureServiceBus-9C033A.svg&logoColor=white"></a>
-      <a href=""><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-9C033A.svg&logoColor=white"></a>
-      <a href=""><img alt="AWS" src="https://img.shields.io/badge/AWS-9C033A.svg&logoColor=white"></a>
-      <a href=""><img alt="Junit5" src="https://img.shields.io/badge/Junit5-9C033A.svg&logoColor=white"></a>
-      <a href=""><img alt="Spock" src="https://img.shields.io/badge/Spock-9C033A.svg&logoColor=white"></a>
+      <a href=""><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-9C033A.svg?logoColor=white"></a>
+      <a href=""><img alt="Spring" src="https://img.shields.io/badge/Spring-9C033A.svg?logoColor=white"></a>
+      <a href=""><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-9C033A.svg?logoColor=white"></a>
+      <a href=""><img alt="REST" src="https://img.shields.io/badge/REST-9C033A.svg?logoColor=white"></a>
+      <a href=""><img alt="AzureServiceBus" src="https://img.shields.io/badge/AzureServiceBus-9C033A.svg?logoColor=white"></a>
+      <a href=""><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-9C033A.svg?&logoColor=white"></a>
+      <a href=""><img alt="AWS" src="https://img.shields.io/badge/AWS-9C033A.svg?&logoColor=white"></a>
+      <a href=""><img alt="Junit5" src="https://img.shields.io/badge/Junit5-9C033A.svg?&logoColor=white"></a>
+      <a href=""><img alt="Spock" src="https://img.shields.io/badge/Spock-9C033A.svg?&logoColor=white"></a>
    
-
-  <h3> Frameworks and Libraries</h3>
-
-  <p>
-      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-9C033A.svg?&logoColor=white"></a>
-      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-9C033A.svg?&logoColor=white"></a>
-      <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-9C033A.svg?&logoColor=white"></a>
-      <a href="#"><img alt="REST" src="https://img.shields.io/badge/REST-9C033A.svg?&logoColor=white"></a>
-      <a href="#"><img alt="AzureServiceBus" src="https://img.shields.io/badge/AzureServiceBus-9C033A.svg&logoColor=white"></a>
-      <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-9C033A.svg&logoColor=white"></a>
-      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-9C033A.svg&logoColor=white"></a>
-      <a href="#"><img alt="Junit5" src="https://img.shields.io/badge/Junit5-9C033A.svg&logoColor=white"></a>
-      <a href="#"><img alt="Spock" src="https://img.shields.io/badge/Spock-9C033A.svg&logoColor=white"></a>
-  </p>
-
   <h3> Database-related Stuff</h3>
 
   <p>
@@ -108,9 +93,8 @@ participate in a project utilising clean code and state-of-the-art design princi
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jlisok's streak" src="https://streak-stats.demolab.com/?user=jlisok&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -122,9 +106,4 @@ participate in a project utilising clean code and state-of-the-art design princi
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jlisok's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jlisok&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 </details>
