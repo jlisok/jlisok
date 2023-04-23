@@ -11,6 +11,7 @@ participate in a project utilising clean code and state-of-the-art design princi
   
  <!-- Social icons section -->
 <p align="left">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/justyna-lisok/"><img width="32px" alt="linkedin" title="linkedin" src="https://user-images.githubusercontent.com/64558310/233840516-5944d225-946e-4403-aa3e-d7247e0ac0fe.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.researchgate.net/profile/Justyna-Lisok"><img width="32px" alt="ResearchGate" title="ResearchGate" src="https://user-images.githubusercontent.com/64558310/233840773-797aa3e5-0ce8-46cb-935b-0008a850ce43.png"/></a>
@@ -32,9 +33,11 @@ participate in a project utilising clean code and state-of-the-art design princi
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
+    <a href="https://github.com/jlisok/youtube_activity_manager_deployment"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jlisok&repo=youtube_activity_manager_deployment&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="youtube_activity_manager_deployment"></a>
+    
     <a href="https://github.com/jlisok/youtube_activity_manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jlisok&repo=youtube_activity_manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="youtube_activity_manager"></a>
     
-    <a href="https://github.com/jlisok/youtube_activity_manager_deployment"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jlisok&repo=youtube_activity_manager_deployment&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="youtube_activity_manager_deployment"></a>
+    
     
     <a href="https://github.com/jlisok/youtube_activity_manager_frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jlisok&repo=youtube_activity_manager_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="youtube_activity_manager_frontend"></a>
     
