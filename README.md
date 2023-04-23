@@ -11,7 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/justyna-lisok/"><img width="32px" alt="Youtube" title="Youtube" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
+  <a href="https://www.linkedin.com/in/justyna-lisok/"><img width="32px" alt="Youtube" title="Youtube" src="![image](https://user-images.githubusercontent.com/64558310/233840168-86a7363f-89f8-40d4-b99c-5bdb52a7a2a6.png)"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
