@@ -33,7 +33,7 @@ participate in a project utilising clean code and state-of-the-art design princi
 </details>
 
 
-<details> 
+<details open> 
   <summary><h2>🛠️ Tech Stack</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -85,7 +85,7 @@ participate in a project utilising clean code and state-of-the-art design princi
   
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
