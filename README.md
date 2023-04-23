@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/justyna-lisok/"><img width="32px" alt="linkedin" title="linkedin" src="https://user-images.githubusercontent.com/64558310/233840516-5944d225-946e-4403-aa3e-d7247e0ac0fe.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.researchgate.net/profile/Justyna-Lisok"><img width="32px" alt="ResearchGate" title="ResearchGate" src="https://user-images.githubusercontent.com/64558310/233840607-adeb1691-a7ff-4590-a7e0-253e4cdaa2d1.png"/></a>
+  <a href="https://www.researchgate.net/profile/Justyna-Lisok"><img width="32px" alt="ResearchGate" title="ResearchGate" src="https://user-images.githubusercontent.com/64558310/233840773-797aa3e5-0ce8-46cb-935b-0008a850ce43.png"/></a>
 </p>
 
 <br/>
