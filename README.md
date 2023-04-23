@@ -1,32 +1,21 @@
-<!-- <p align="center">
-  <a href="https://github.com/jlisok">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Justyna Lisok" /></a>
-</p> -->
-
-<h2 align="center">
-  Justyna Lisok
-</h2>
-
-<details open> 
-  <summary><h2> Bio</h2></summary>
-Detail-oriented Java engineer with 2,5 years of professional experience in developing robust code. With a background as a scientific researcher, excels in self-motivation, fast learning, and understanding complex problems. Eager to help maintain the highest coding standards and to share expertise with the team. Seeks to
-participate in a project utilising clean code and state-of-the-art design principles. Strives for opportunities to further boost tech competence and engage in the decision-making process.
-</details>
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Skilled+Java+Developer;3+years+of+coding+experience;detail-oriented;proactive+and+team-oriented&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
+<details open> 
+  <summary><h2> Bio</h2></summary>
+Detail-oriented Java engineer with 2,5 years of professional experience in developing robust code. With a background as a scientific researcher, excels in self-motivation, fast learning, and understanding complex problems. Eager to help maintain the highest coding standards and to share expertise with the team. Seeks to
+participate in a project utilising clean code and state-of-the-art design principles. Strives for opportunities to further boost tech competence and engage in the decision-making process.
+  
+ <!-- Social icons section -->
+<p align="left">
   <a href="https://www.linkedin.com/in/justyna-lisok/"><img width="32px" alt="linkedin" title="linkedin" src="https://user-images.githubusercontent.com/64558310/233840516-5944d225-946e-4403-aa3e-d7247e0ac0fe.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.researchgate.net/profile/Justyna-Lisok"><img width="32px" alt="ResearchGate" title="ResearchGate" src="https://user-images.githubusercontent.com/64558310/233840773-797aa3e5-0ce8-46cb-935b-0008a850ce43.png"/></a>
-</p>
-
-<br/>
+</p> 
+</details>
 
 
 <details open> 
@@ -35,9 +24,7 @@ participate in a project utilising clean code and state-of-the-art design princi
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/jlisok/problem_solving"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </details>
 
 <details open> 
@@ -45,12 +32,13 @@ participate in a project utilising clean code and state-of-the-art design princi
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+    <a href="https://github.com/jlisok/youtube_activity_manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    
+    <a href="https://github.com/jlisok/youtube_activity_manager_deployment"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+    
+    <a href="https://github.com/jlisok/youtube_activity_manager_frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+    
+    <a href="https://github.com/jlisok/FileWritingService"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
   </p>
 </details>
 
