@@ -13,15 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/justyna-lisok/"><img width="32px" alt="linkedin" title="linkedin" src="https://user-images.githubusercontent.com/64558310/233840516-5944d225-946e-4403-aa3e-d7247e0ac0fe.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://www.researchgate.net/profile/Justyna-Lisok"><img width="32px" alt="ResearchGate" title="ResearchGate" src="https://user-images.githubusercontent.com/64558310/233840607-adeb1691-a7ff-4590-a7e0-253e4cdaa2d1.png"/></a>
 </p>
 
 <br/>
