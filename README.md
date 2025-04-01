@@ -6,8 +6,7 @@
 
 <details open> 
   <summary><h2>👷 Bio</h2></summary>
-Detail-oriented Java engineer with 2,5 years of professional experience in developing robust code. With a background as a scientific researcher, excels in self-motivation, fast learning, and understanding complex problems. Eager to help maintain the highest coding standards and to share expertise with the team. Seeks to
-participate in a project utilising clean code and state-of-the-art design principles. Strives for opportunities to further boost tech competence and engage in the decision-making process.
+Detail-oriented Java developer with 4 years of professional experience in crafting robust, scalable code. With a background in scientific research, I excel in self-motivation, rapid learning, and solving complex problems. I am passionate about upholding high coding standards, collaborating with teams, and sharing expertise. Eager to contribute to projects that prioritize clean code, modern design principles, and continuous improvement. Seeking opportunities to further enhance my technical skills and actively engage in strategic decision-making processes.
 </details>
 
 
